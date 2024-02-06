@@ -1,3 +1,5 @@
+import Sections from "@/app/ui/customers/sections";
+
 export default function Page() {
-    return <p>Customers</p>;
+    return <Sections />;
 }
