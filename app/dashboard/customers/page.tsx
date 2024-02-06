@@ -1,5 +1,5 @@
-import Sections from "@/app/ui/customers/sections";
+import Customers from "@/app/ui/customers/customers";
 
 export default function Page() {
-    return <Sections />;
+    return <Customers />;
 }
